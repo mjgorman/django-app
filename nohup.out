@@ -1,0 +1,434 @@
+Validating models...
+
+0 errors found
+April 27, 2014 - 08:11:51
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 08:11:57] "GET /admin/polls/poll/ HTTP/1.1" 200 5683
+[27/Apr/2014 08:11:57] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 08:12:00] "GET /admin/polls/poll/1/ HTTP/1.1" 200 9953
+[27/Apr/2014 08:12:00] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 08:12:01] "GET /admin/ HTTP/1.1" 200 4232
+[27/Apr/2014 08:14:10] "GET /admin/ HTTP/1.1" 200 4232
+[27/Apr/2014 08:15:46] "GET /admin/ HTTP/1.1" 200 4232
+[27/Apr/2014 08:15:49] "GET / HTTP/1.1" 200 1757
+[27/Apr/2014 08:15:52] "GET /polls HTTP/1.1" 404 1924
+[27/Apr/2014 08:15:56] "GET /poll HTTP/1.1" 404 1921
+[27/Apr/2014 08:16:01] "GET /polls/index HTTP/1.1" 404 1942
+[27/Apr/2014 08:16:03] "GET /index HTTP/1.1" 404 1924
+Validating models...
+
+0 errors found
+April 27, 2014 - 08:11:56
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 08:17:15] "GET /poll HTTP/1.1" 500 99209
+[27/Apr/2014 08:17:19] "GET /polls HTTP/1.1" 500 98985
+[27/Apr/2014 08:17:21] "GET / HTTP/1.1" 500 83105
+[27/Apr/2014 08:17:23] "GET / HTTP/1.1" 500 83463
+[27/Apr/2014 08:17:37] "GET /polls/ HTTP/1.1" 500 83171
+[27/Apr/2014 08:18:12] "GET /polls/ HTTP/1.1" 500 83359
+[27/Apr/2014 08:19:38] "GET /polls/ HTTP/1.1" 200 39
+[27/Apr/2014 08:19:40] "GET /polls/ HTTP/1.1" 200 39
+[27/Apr/2014 08:19:57] "GET / HTTP/1.1" 404 2016
+[27/Apr/2014 08:20:03] "GET /polls/index HTTP/1.1" 404 2112
+[27/Apr/2014 08:20:06] "GET /polls/ HTTP/1.1" 200 39
+Validating models...
+
+0 errors found
+April 27, 2014 - 08:17:14
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 08:24:52] "GET /polls/ HTTP/1.1" 500 83395
+[27/Apr/2014 08:25:38] "GET /polls/ HTTP/1.1" 500 83395
+[27/Apr/2014 08:25:40] "GET /polls/ HTTP/1.1" 500 83395
+[27/Apr/2014 08:26:17] "GET /polls/ HTTP/1.1" 200 39
+[27/Apr/2014 08:26:24] "GET /polls/1 HTTP/1.1" 301 0
+[27/Apr/2014 08:26:24] "GET /polls/1/ HTTP/1.1" 200 25
+[27/Apr/2014 08:26:30] "GET /polls/1/results HTTP/1.1" 301 0
+[27/Apr/2014 08:26:31] "GET /polls/1/results/ HTTP/1.1" 200 40
+[27/Apr/2014 08:26:37] "GET /polls/1/vote HTTP/1.1" 301 0
+[27/Apr/2014 08:26:37] "GET /polls/1/vote/ HTTP/1.1" 200 24
+Validating models...
+
+0 errors found
+April 27, 2014 - 08:21:50
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 08:27:17] "GET /polls/6/vote/ HTTP/1.1" 200 24
+[27/Apr/2014 16:37:50] "GET /polls/6/vote/ HTTP/1.1" 200 24
+[27/Apr/2014 16:37:52] "GET /polls/6/vote/ HTTP/1.1" 200 24
+[27/Apr/2014 16:58:06] "GET /polls/1/vote/ HTTP/1.1" 200 24
+[27/Apr/2014 16:58:14] "GET /polls HTTP/1.1" 301 0
+[27/Apr/2014 16:58:14] "GET /polls/ HTTP/1.1" 200 39
+Validating models...
+
+0 errors found
+April 27, 2014 - 08:26:41
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:01:41] "GET /polls/ HTTP/1.1" 500 94983
+[27/Apr/2014 17:02:16] "GET /polls/ HTTP/1.1" 500 61746
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:01:41
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:02:37] "GET /polls/ HTTP/1.1" 200 10
+[27/Apr/2014 17:02:39] "GET /polls/ HTTP/1.1" 200 10
+[27/Apr/2014 17:07:12] "GET /polls/ HTTP/1.1" 200 10
+[27/Apr/2014 17:07:14] "GET /polls/ HTTP/1.1" 200 10
+[27/Apr/2014 17:07:15] "GET /polls/ HTTP/1.1" 200 10
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:02:36
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:09:29] "GET /polls/ HTTP/1.1" 500 62076
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:09:12
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:10:06] "GET /polls/ HTTP/1.1" 500 122557
+[27/Apr/2014 17:10:30] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:10:34] "GET /polls/1/ HTTP/1.1" 200 25
+[27/Apr/2014 17:20:31] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:24:52] "GET /polls/ HTTP/1.1" 200 87
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:10:03
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:28:23] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:28:26] "GET /polls/1/ HTTP/1.1" 500 94774
+[27/Apr/2014 17:28:53] "GET /polls/1/ HTTP/1.1" 200 15
+[27/Apr/2014 17:28:57] "GET /polls/1/ HTTP/1.1" 200 15
+[27/Apr/2014 17:29:00] "GET /polls/1/ HTTP/1.1" 200 15
+[27/Apr/2014 17:29:02] "GET /polls/2/ HTTP/1.1" 500 62086
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:28:22
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:29:37] "GET /polls/2/ HTTP/1.1" 500 62309
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:29:36
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:29:56] "GET /polls/2/ HTTP/1.1" 500 62327
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:29:53
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:30:50] "GET /polls/2/ HTTP/1.1" 500 62144
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:30:49
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:31:17] "GET /polls/2/ HTTP/1.1" 500 62144
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:31:15
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:33:14] "GET /polls/2/ HTTP/1.1" 404 1618
+[27/Apr/2014 17:33:21] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:33:22] "GET /polls/1/ HTTP/1.1" 200 15
+[27/Apr/2014 17:33:32] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:33:33] "GET /polls/1/ HTTP/1.1" 200 15
+[27/Apr/2014 17:37:37] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:37:38] "GET /polls/ HTTP/1.1" 200 87
+[27/Apr/2014 17:37:39] "GET /polls/1/ HTTP/1.1" 200 81
+[27/Apr/2014 17:40:30] "GET /polls/1/ HTTP/1.1" 200 81
+[27/Apr/2014 17:40:31] "GET /polls/1/ HTTP/1.1" 200 81
+[27/Apr/2014 17:40:33] "GET /polls/ HTTP/1.1" 200 92
+[27/Apr/2014 17:40:36] "GET /polls/1/%20%%7D/ HTTP/1.1" 404 2713
+[27/Apr/2014 17:40:48] "GET /polls/1/%20%%7D/ HTTP/1.1" 404 2713
+[27/Apr/2014 17:40:49] "GET /polls/ HTTP/1.1" 200 89
+[27/Apr/2014 17:40:51] "GET /polls/1// HTTP/1.1" 404 2700
+[27/Apr/2014 17:41:00] "GET /polls/ HTTP/1.1" 200 88
+[27/Apr/2014 17:41:02] "GET /polls/1/ HTTP/1.1" 200 81
+[27/Apr/2014 17:41:03] "GET /polls/1/ HTTP/1.1" 200 81
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:33:12
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 17:45:29] "GET /polls/ HTTP/1.1" 200 98
+[27/Apr/2014 17:45:31] "GET /polls/specifics/1/ HTTP/1.1" 200 81
+[27/Apr/2014 17:45:34] "GET /polls/specifics/1/ HTTP/1.1" 200 81
+Validating models...
+
+0 errors found
+April 27, 2014 - 17:45:28
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:04:20] "GET /polls/ HTTP/1.1" 500 159990
+[27/Apr/2014 18:04:22] "GET /polls/ HTTP/1.1" 500 160115
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:03:59
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:05:29] "GET /polls/2/ HTTP/1.1" 404 2707
+[27/Apr/2014 18:05:31] "GET /polls/2/ HTTP/1.1" 404 2707
+[27/Apr/2014 18:05:35] "GET /polls/ HTTP/1.1" 200 98
+[27/Apr/2014 18:05:37] "GET /polls/specifics/1/ HTTP/1.1" 200 81
+[27/Apr/2014 18:05:40] "GET /polls/ HTTP/1.1" 200 98
+[27/Apr/2014 18:06:08] "GET /polls/ HTTP/1.1" 200 98
+[27/Apr/2014 18:06:13] "GET /admin/ HTTP/1.1" 200 4232
+[27/Apr/2014 18:06:16] "GET /admin/polls/poll/ HTTP/1.1" 200 5683
+[27/Apr/2014 18:06:16] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:06:22] "GET /admin/polls/poll/add/ HTTP/1.1" 200 7387
+[27/Apr/2014 18:06:22] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:06:35] "POST /admin/polls/poll/add/ HTTP/1.1" 200 8550
+[27/Apr/2014 18:06:35] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:06:41] "POST /admin/polls/poll/add/ HTTP/1.1" 302 0
+[27/Apr/2014 18:06:42] "GET /admin/polls/poll/2/ HTTP/1.1" 200 10120
+[27/Apr/2014 18:06:42] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:06:50] "POST /admin/polls/poll/2/ HTTP/1.1" 302 0
+[27/Apr/2014 18:06:51] "GET /admin/polls/poll/ HTTP/1.1" 200 6150
+[27/Apr/2014 18:06:51] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:06:54] "GET /polls/ HTTP/1.1" 200 171
+[27/Apr/2014 18:06:55] "GET /polls/specifics/2/ HTTP/1.1" 200 74
+[27/Apr/2014 18:10:24] "GET /polls/ HTTP/1.1" 200 171
+[27/Apr/2014 18:10:25] "GET /polls/specifics/2/ HTTP/1.1" 200 428
+[27/Apr/2014 18:10:27] "POST /polls/2/vote/ HTTP/1.1" 200 24
+[27/Apr/2014 18:10:31] "GET /polls/ HTTP/1.1" 200 171
+[27/Apr/2014 18:10:33] "GET /polls/specifics/1/ HTTP/1.1" 200 435
+[27/Apr/2014 18:10:35] "POST /polls/1/vote/ HTTP/1.1" 200 24
+[27/Apr/2014 18:10:38] "GET /polls/ HTTP/1.1" 200 171
+[27/Apr/2014 18:10:40] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:10:41] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:10:43] "GET /admin/polls/poll/2/ HTTP/1.1" 200 9939
+[27/Apr/2014 18:10:43] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:10:49] "GET /admin/polls/poll/1/ HTTP/1.1" 200 9953
+[27/Apr/2014 18:10:49] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:05:04
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:16:29] "GET /polls/ HTTP/1.1" 500 95065
+[27/Apr/2014 18:16:53] "GET /polls/ HTTP/1.1" 200 171
+[27/Apr/2014 18:16:55] "GET /polls/specifics/2/ HTTP/1.1" 200 428
+[27/Apr/2014 18:16:58] "POST /polls/2/vote/ HTTP/1.1" 500 63387
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:16:25
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:17:10] "POST /polls/2/vote/ HTTP/1.1" 302 0
+[27/Apr/2014 18:17:11] "GET /polls/2/results/ HTTP/1.1" 200 40
+[27/Apr/2014 18:17:14] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:17:14] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:17:15] "GET /admin/polls/poll/2/ HTTP/1.1" 200 9939
+[27/Apr/2014 18:17:16] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:17:19] "POST /admin/polls/poll/2/ HTTP/1.1" 302 0
+[27/Apr/2014 18:17:20] "GET /admin/polls/poll/ HTTP/1.1" 200 6150
+[27/Apr/2014 18:17:20] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:19:50] "POST /polls/2/vote/ HTTP/1.1" 500 96324
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:17:10
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:20:09] "POST /polls/2/vote/ HTTP/1.1" 200 483
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:20:08
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:23:48] "GET /polls/2/vote/ HTTP/1.1" 200 483
+[27/Apr/2014 18:23:51] "POST /polls/2/vote/ HTTP/1.1" 302 0
+[27/Apr/2014 18:23:51] "GET /polls/2/results/ HTTP/1.1" 500 95225
+[27/Apr/2014 18:25:30] "GET /polls/2/results/ HTTP/1.1" 200 144
+[27/Apr/2014 18:25:33] "GET /polls/specifics/2/ HTTP/1.1" 200 428
+[27/Apr/2014 18:25:35] "POST /polls/2/vote/ HTTP/1.1" 302 0
+[27/Apr/2014 18:25:35] "GET /polls/2/results/ HTTP/1.1" 200 143
+[27/Apr/2014 18:25:36] "GET /polls/specifics/2/ HTTP/1.1" 200 428
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:23:46
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:34:30] "GET /admin/polls/poll/ HTTP/1.1" 500 109953
+[27/Apr/2014 18:34:31] "GET /polls/specifics/2/ HTTP/1.1" 500 109958
+[27/Apr/2014 18:34:34] "GET /polls/ HTTP/1.1" 500 109386
+[27/Apr/2014 18:34:46] "GET /admin/polls/poll/ HTTP/1.1" 500 109953
+[27/Apr/2014 18:35:07] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:35:08] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:35:08] "GET /polls/ HTTP/1.1" 200 151
+[27/Apr/2014 18:35:11] "GET /polls/2/ HTTP/1.1" 500 85976
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:30:06
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:36:05] "GET /polls/2/ HTTP/1.1" 500 85866
+[27/Apr/2014 18:39:57] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:39:57] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:40:43] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:40:43] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:40:45] "GET /admin/polls/poll/2/ HTTP/1.1" 200 9939
+[27/Apr/2014 18:40:45] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:40:50] "GET /polls/1/ HTTP/1.1" 500 85976
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:36:02
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:41:53] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 18:41:55] "POST /polls/1/vote/ HTTP/1.1" 302 0
+[27/Apr/2014 18:41:55] "GET /polls/1/results/ HTTP/1.1" 200 140
+[27/Apr/2014 18:41:57] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 18:42:07] "GET /polls/1/ HTTP/1.1" 200 435
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:41:06
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:42:10] "POST /polls/1/vote/ HTTP/1.1" 500 54680
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:42:08
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 18:42:20] "POST /polls/1/vote/ HTTP/1.1" 302 0
+[27/Apr/2014 18:42:20] "GET /polls/1/results/ HTTP/1.1" 200 139
+[27/Apr/2014 18:42:22] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 18:42:23] "POST /polls/1/vote/ HTTP/1.1" 302 0
+[27/Apr/2014 18:42:24] "GET /polls/1/results/ HTTP/1.1" 200 140
+[27/Apr/2014 18:42:40] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:42:41] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:42] "GET /admin/polls/poll/2/ HTTP/1.1" 200 9939
+[27/Apr/2014 18:42:43] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:44] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:42:45] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:47] "GET /admin/polls/poll/1/ HTTP/1.1" 200 9953
+[27/Apr/2014 18:42:47] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:49] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 18:42:49] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:51] "GET /admin/polls/poll/?o=2 HTTP/1.1" 200 6394
+[27/Apr/2014 18:42:51] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:53] "GET /admin/polls/poll/?o=-2 HTTP/1.1" 200 6405
+[27/Apr/2014 18:42:53] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:57] "GET /admin/polls/poll/?o= HTTP/1.1" 200 6147
+[27/Apr/2014 18:42:57] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:42:59] "GET /admin/polls/poll/?o=2 HTTP/1.1" 200 6394
+[27/Apr/2014 18:42:59] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:43:02] "GET /admin/polls/poll/?o= HTTP/1.1" 200 6147
+[27/Apr/2014 18:43:02] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 18:45:08] "GET / HTTP/1.1" 404 2016
+[27/Apr/2014 18:46:14] "GET /poll HTTP/1.1" 404 2028
+[27/Apr/2014 18:46:19] "GET / HTTP/1.1" 404 2016
+[27/Apr/2014 18:46:22] "GET /admin HTTP/1.1" 301 0
+[27/Apr/2014 18:46:22] "GET /admin/ HTTP/1.1" 200 1873
+[27/Apr/2014 18:46:27] "GET /polls HTTP/1.1" 301 0
+[27/Apr/2014 18:46:28] "GET /polls/ HTTP/1.1" 200 151
+[27/Apr/2014 18:46:30] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 18:51:11] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 19:06:22] "GET /admin/polls/poll/?o= HTTP/1.1" 200 6147
+[27/Apr/2014 19:06:23] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 19:06:25] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 19:17:19] "GET /polls/1/ HTTP/1.1" 200 435
+Validating models...
+
+0 errors found
+April 27, 2014 - 18:42:19
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Validating models...
+
+0 errors found
+April 27, 2014 - 19:22:17
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 19:25:36] "GET /admin/polls/poll/?o= HTTP/1.1" 200 6147
+[27/Apr/2014 19:25:36] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 19:25:36] "GET /polls/1/ HTTP/1.1" 200 435
+[27/Apr/2014 19:25:40] "GET /polls/ HTTP/1.1" 200 151
+[27/Apr/2014 19:41:28] "GET /polls/1/ HTTP/1.1" 200 435
+Validating models...
+
+0 errors found
+April 27, 2014 - 19:22:22
+Django version 1.6.3, using settings 'mypythonsite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[27/Apr/2014 20:23:35] "GET /polls/1/ HTTP/1.1" 404 1618
+[27/Apr/2014 20:23:38] "GET /polls/ HTTP/1.1" 200 89
+[27/Apr/2014 20:23:43] "GET /admin/polls/poll/?o= HTTP/1.1" 200 6147
+[27/Apr/2014 20:23:43] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 20:23:45] "GET /admin/polls/poll/1/?_changelist_filters=o%3D HTTP/1.1" 200 10028
+[27/Apr/2014 20:23:46] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 20:24:07] "POST /admin/polls/poll/1/?_changelist_filters=o%3D HTTP/1.1" 302 0
+[27/Apr/2014 20:24:07] "GET /admin/polls/poll/ HTTP/1.1" 200 6148
+[27/Apr/2014 20:24:07] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 20:24:08] "GET /polls/ HTTP/1.1" 200 151
+[27/Apr/2014 20:24:09] "GET /polls/ HTTP/1.1" 200 151
+[27/Apr/2014 20:24:10] "GET /polls/2/ HTTP/1.1" 200 428
+[27/Apr/2014 21:07:19] "GET /admin/polls/poll/2/ HTTP/1.1" 200 9939
+[27/Apr/2014 21:07:19] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 21:07:40] "POST /admin/polls/poll/2/ HTTP/1.1" 302 0
+[27/Apr/2014 21:07:40] "GET /admin/polls/poll/ HTTP/1.1" 200 6151
+[27/Apr/2014 21:07:40] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 21:07:42] "GET /admin/polls/poll/2/ HTTP/1.1" 200 11128
+[27/Apr/2014 21:07:42] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 21:07:45] "GET /admin/polls/poll/ HTTP/1.1" 200 5996
+[27/Apr/2014 21:07:45] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 21:07:46] "GET /admin/polls/poll/1/ HTTP/1.1" 200 9953
+[27/Apr/2014 21:07:46] "GET /admin/jsi18n/ HTTP/1.1" 200 2372
+[27/Apr/2014 21:07:49] "GET /admin/polls/ HTTP/1.1" 200 2169
