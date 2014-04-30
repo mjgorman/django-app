@@ -1,7 +1,19 @@
 li a {
-    color: green;
+    color: darkgreen;
+}
+
+h1 {
+    color: black;
 }
 
 body {
-    background: black url("images/background.gif") no-repeat right bottom;
+    background: grey no-repeat right bottom;
+}
+
+label {
+    color: darkgreen;
+}
+
+votes {
+    color: darkgreen;
 }
